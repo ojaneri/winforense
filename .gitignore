@@ -1,0 +1,8 @@
+# Relatórios gerados pelo WinForense
+relatorio_forense_windows.html
+
+# Artefatos de build
+/dist/
+/build/
+/__pycache__/
+/*.spec
